@@ -1,0 +1,7 @@
+{
+  "name": "CarManagement",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
